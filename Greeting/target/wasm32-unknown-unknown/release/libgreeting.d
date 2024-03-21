@@ -1,0 +1,1 @@
+/home/efte/Documents/projects/NEAR/greeting/target/wasm32-unknown-unknown/release/libgreeting.rlib: /home/efte/Documents/projects/NEAR/greeting/src/lib.rs /home/efte/Documents/projects/NEAR/greeting/target/near/greeting_abi.zst
